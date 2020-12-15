@@ -6,11 +6,7 @@ h1 {
   font-family: 'Times New Roman', Times, serif;
   color: teal;
 }
-.footer {
-  background-color: rgb(70, 70, 70); 
-  text-align:center;
-  /* position: fixed; */
-  bottom: 0px;
-  /* display: block; */
-  border-top: 5px solid teal;
+footer {
+  text-align: center;
+  border-top: 6px solid teal;
 }
