@@ -6,6 +6,18 @@ h1 {
   font-family: 'Times New Roman', Times, serif;
   color: teal;
 }
+
+.form-control {
+  border-radius: 0px;
+}
+
+.btn-lg {
+  background-color: teal;
+  color: white;
+  border-radius: 0px;
+  padding: 20px 40px;
+}
+
 footer {
   text-align: center;
   border-top: 6px solid teal;
