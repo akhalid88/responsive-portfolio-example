@@ -2,13 +2,14 @@ nav {
   margin-bottom: 100px;
 }
 
-h1 {
+h1,
+.navbar-brand {
   font-family: 'Times New Roman', Times, serif;
   color: teal;
 }
 
 section {
-  margin-bottom: 100px;
+  margin-bottom: 150px;
 }
 
 .form-control {
@@ -25,4 +26,17 @@ section {
 footer {
   text-align: center;
   border-top: 6px solid teal;
+}
+
+@media screen and (max-width: 575px) {
+  .wrapper {
+    margin-right: 50px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .wrapper {
+    padding-right: 0px;
+    margin-right: 50px;
+  }
 }

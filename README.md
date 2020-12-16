@@ -6,7 +6,7 @@ Given an existing image of a portfolio website, my task was to imitate the image
 
 -----------------------
 ## Site Picture
-![Site](assets/images/readme-home.jpg)
+![Site](assets/images/readme-home.png)
 
 -----------------------
 ## Code Snippets
