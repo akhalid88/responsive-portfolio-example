@@ -7,6 +7,10 @@ h1 {
   color: teal;
 }
 
+section {
+  margin-bottom: 100px;
+}
+
 .form-control {
   border-radius: 0px;
 }
